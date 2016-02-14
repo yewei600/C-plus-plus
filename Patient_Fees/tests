@@ -1,0 +1,19 @@
+int main()
+{
+    vector<PatientAccount> patientArray;
+    cout<<"size of patient array is "<<patientArray.size()<<endl;
+    PatientAccount p;
+
+    patientArray.push_back(p);
+    patientArray.push_back(p);
+    patientArray.push_back(p);
+    patientArray.push_back(p);
+
+
+    cout<<"size of patient array is "<<patientArray.size()<<endl;
+    cout<<"size of one patientAccount is "<<sizeof(p);
+
+
+return 0;
+}
+

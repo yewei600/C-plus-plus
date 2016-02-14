@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454458396 source:c:\users\eric\documents\university of waterloo\course\c++\tictactoe\main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+
