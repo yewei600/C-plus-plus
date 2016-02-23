@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1455158059 source:c:\users\eric\documents\university of waterloo\course\c++\patient_fees\main.cpp
+	<iostream>
+	<vector>
+	"PatientAccount.h"
+	"Pharmacy.h"
+	"Surgery.h"
+
+1455154409 c:\users\eric\documents\university of waterloo\course\c++\patient_fees\patientaccount.h
+	<string>
+
+1455154871 c:\users\eric\documents\university of waterloo\course\c++\patient_fees\pharmacy.h
+	"PatientAccount.h"
+
+1455155469 c:\users\eric\documents\university of waterloo\course\c++\patient_fees\surgery.h
+	"PatientAccount.h"
+
+1455157071 source:c:\users\eric\documents\university of waterloo\course\c++\patient_fees\patientaccount.cpp
+	"PatientAccount.h"
+	<iostream>
+
+1455154776 source:c:\users\eric\documents\university of waterloo\course\c++\patient_fees\pharmacy.cpp
+	"Pharmacy.h"
+	<iostream>
+
+1455155525 source:c:\users\eric\documents\university of waterloo\course\c++\patient_fees\surgery.cpp
+	"Surgery.h"
+	<iostream>
+
+1455158059 source:c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\main.cpp
+	<iostream>
+	<vector>
+	"PatientAccount.h"
+	"Pharmacy.h"
+	"Surgery.h"
+
+1455154409 c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\patientaccount.h
+	<string>
+
+1455154871 c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\pharmacy.h
+	"PatientAccount.h"
+
+1455155469 c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\surgery.h
+	"PatientAccount.h"
+
+1455157071 source:c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\patientaccount.cpp
+	"PatientAccount.h"
+	<iostream>
+
+1455154776 source:c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\pharmacy.cpp
+	"Pharmacy.h"
+	<iostream>
+
+1455155525 source:c:\users\eric\documents\university of waterloo\course\c++\programs\patient_fees\surgery.cpp
+	"Surgery.h"
+	<iostream>
+

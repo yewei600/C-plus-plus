@@ -1,6 +1,11 @@
 #include <iostream>
 #include <string>
 
+/*
+modify input string like the following example:
+
+"StopAndSmellTheRoses ---> Stop and smell the roses"
+*/
 
 using namespace std;
 

@@ -2,7 +2,9 @@
 #include <string>
 using namespace std;
 
-//
+/*
+selection sort on an array of strings
+*/
 
 int main()
 {
