@@ -8,7 +8,7 @@ using namespace std;
 
 
 
-// find the average number of words per sentence.
+// find the average number of words per sentence in a file.
 int numWords(string str){
     int i=0,cnt=0;
     while(str[i]!='\0'){

@@ -1,5 +1,8 @@
 # depslib dependency file v1.0
-1456248142 source:c:\users\eric\documents\university of waterloo\course\c++\code\main.cpp
+1456333176 source:c:\users\eric\documents\university of waterloo\course\c++\code\main.cpp
 	<iostream>
 	<stdlib.h>
+	<string>
+	<time.h>
+	<iomanip>
 
