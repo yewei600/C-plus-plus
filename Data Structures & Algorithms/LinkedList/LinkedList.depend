@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456414186 source:c:\users\eric\documents\university of waterloo\course\c++\data structures\linkedlist\main.cpp
+	<iostream>
+	<string>
+	"LinkedList.h"
+
+1456413626 c:\users\eric\documents\university of waterloo\course\c++\data structures\linkedlist\linkedlist.h
+

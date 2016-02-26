@@ -4,7 +4,7 @@
 #include <time.h>
 using namespace std;
 
-//
+//a simple lottery application
 
 int main()
 {
