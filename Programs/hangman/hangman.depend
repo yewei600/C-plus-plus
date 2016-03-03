@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456846645 source:c:\users\eric\documents\university of waterloo\course\c++\programs\hangman\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<fstream>
+	<cstring>
+

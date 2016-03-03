@@ -1,6 +1,6 @@
 # depslib dependency file v1.0
-1456420585 source:c:\users\eric\documents\university of waterloo\course\c++\code\main.cpp
+1457025864 source:c:\users\eric\documents\university of waterloo\course\c++\code\main.cpp
 	<iostream>
-	<stdlib.h>
-	<time.h>
+	<math.h>
+	<string>
 
