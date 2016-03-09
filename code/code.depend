@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
-1457197572 source:c:\users\eric\documents\university of waterloo\course\c++\code\main.cpp
+1457298875 source:c:\users\eric\documents\university of waterloo\course\c++\code\main.cpp
 	<iostream>
-	<sstream>
+	<algorithm>
 	<string>
 	<vector>
 
